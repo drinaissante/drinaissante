@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My GitHub Streak 2026
+# My GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats-two-beta.vercel.app/?user=drinaissante&theme=github-dark&border_radius=7.1&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=180)](https://git.io/streak-stats)
+
+# domninos (Freelance GitHub Profile)
+[![GitHub Streak](https://github-readme-streak-stats-two-beta.vercel.app?user=domninos&theme=github-dark&border_radius=7.1&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_height=180)](https://git.io/streak-stats)
